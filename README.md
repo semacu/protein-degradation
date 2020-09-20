@@ -3,7 +3,7 @@ Year | Month | First author | Title / Link | Journal
 :---:|:-----:|:------------:|--------------|--------
 2020 | 12 | Liang | [Design and pharmaceutical applications of proteolysis-targeting chimeric molecules](https://www.sciencedirect.com/science/article/abs/pii/S0006295220304470) | Biochemical Pharmacology
 2020 | 09 | Simpson | [Inducible Degradation of Target Proteins through a Tractable Affinity-Directed Protein Missile System](https://www.sciencedirect.com/science/article/pii/S2451945620302361) | Cell Chemical Biology
-2020 | 08 | Han | [A suite of mathematical solutions to describe ternary complex formation and their application to targeted protein degradation by heterobifunctional ligands](https://www.jbc.org/content/early/2020/08/28/jbc.RA120.014715) | Journal of Biological Chemistry
+2020 | 08 | Han |  [A suite of mathematical solutions to describe ternary complex formation and their application to targeted protein degradation by heterobifunctional ligands](https://www.jbc.org/content/early/2020/08/28/jbc.RA120.014715) | Journal of Biological Chemistry
 ](https://www.jbc.org/content/early/2020/08/28/jbc.RA120.014715)
 2020 | 08 | Mabbitt | [Structural basis for RING-Cys-Relay E3 ligase activity and its role in axon integrity](https://www.nature.com/articles/s41589-020-0598-6) | Nature Chemical Biology
 2020 | 07 | Chung | [Structural Insights into PROTAC-Mediated Degradation of Bcl-xL](https://pubs.acs.org/doi/abs/10.1021/acschembio.0c00266) | ACS Chemical Biology
