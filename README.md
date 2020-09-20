@@ -17,6 +17,7 @@ Year | Month | First author | Title / Link | Journal
 2020 | 03 | Wu | [Small molecules that target the ubiquitin system ](https://portlandpress.com/biochemsoctrans/article/48/2/479/222433/) | Biochemical Society Transactions
 2020 | 02 | Deshaies | **[Multispecific drugs herald a new era of biopharmaceutical innovation](https://www.nature.com/articles/s41586-020-2168-1)** | Nature
 2020 | 02 | Wang | [Degradation of proteins by PROTACs and other strategies](https://www.sciencedirect.com/science/article/pii/S2211383519306914?via%3Dihub) | Acta Pharmaceutica Sinica B
+2020 | 01 | Gong | **[Targeting Cullin-RING Ubiquitin Ligases and the Applications in PROTACs](https://link.springer.com/chapter/10.1007%2F978-981-15-1025-0_19)** | Advances in Experimental Medicine and Biology
 2020 | 01 | Yang | [The Evolving Druggability and Developability Space: Chemically Modified New Modalities and Emerging Small Molecules](https://link.springer.com/article/10.1208%2Fs12248-019-0402-2) | The AAPS Journal
 --- | --- | --- | --- | ---
 2019 | 12 | Sun | [Protacs: Great opportunities for academia and industry](https://www.nature.com/articles/s41392-019-0101-6) | Signal Transduction and Targeted Therapy
