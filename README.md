@@ -3,6 +3,7 @@ Year | Month | First author | Title / Link | Journal
 :---:|:-----:|:------------:|--------------|--------
 2020 | 12 | Liang | [Design and pharmaceutical applications of proteolysis-targeting chimeric molecules](https://www.sciencedirect.com/science/article/abs/pii/S0006295220304470) | Biochemical Pharmacology
 2020 | 09 | Simpson | [Inducible Degradation of Target Proteins through a Tractable Affinity-Directed Protein Missile System](https://www.sciencedirect.com/science/article/pii/S2451945620302361) | Cell Chemical Biology
+2020 | 08 | Mayor-Ruiz | [Rational discovery of molecular glue degraders via scalable chemical profiling](https://www.nature.com/articles/s41589-020-0594-x) | Nature Chemical Biology
 2020 | 08 | Han |  [A suite of mathematical solutions to describe ternary complex formation and their application to targeted protein degradation by heterobifunctional ligands](https://www.jbc.org/content/early/2020/08/28/jbc.RA120.014715) | Journal of Biological Chemistry
 2020 | 08 | Mabbitt | [Structural basis for RING-Cys-Relay E3 ligase activity and its role in axon integrity](https://www.nature.com/articles/s41589-020-0598-6) | Nature Chemical Biology
 2020 | 07 | Chung | [Structural Insights into PROTAC-Mediated Degradation of Bcl-xL](https://pubs.acs.org/doi/abs/10.1021/acschembio.0c00266) | ACS Chemical Biology
@@ -11,6 +12,7 @@ Year | Month | First author | Title / Link | Journal
 2020 | 05 | Luh | [Prey for the Proteasome: Targeted Protein Degradation – A Medicinal Chemist´s Perspective](https://onlinelibrary.wiley.com/doi/10.1002/anie.202004310) | Angewandte Chemie International Edition
 2020 | 03 | Imrie | [Deep Generative Models for 3D Linker Design](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b01120) | Journal of Chemical Information and Modeling
 2020 | 03 | Wu | [Small molecules that target the ubiquitin system ](https://portlandpress.com/biochemsoctrans/article/48/2/479/222433/) | Biochemical Society Transactions
+2020 | 02 | Wang | [Degradation of proteins by PROTACs and other strategies](https://www.sciencedirect.com/science/article/pii/S2211383519306914?via%3Dihub) | Acta Pharmaceutica Sinica B
 --- | --- | --- | --- | ---
 2019 | 09 | Chamberlain | [Development of targeted protein degradation therapeutics](https://www.nature.com/articles/s41589-019-0362-y) | Nature Chemical Biology
 2019 | 04 | Roth | [Advances in targeted degradation of endogenous proteins](https://link.springer.com/article/10.1007/s00018-019-03112-6) | Cellular and Molecular Life Sciences
