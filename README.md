@@ -15,6 +15,7 @@ Year | Month | First author | Title / Link | Journal
 2020 | 03 | Wu | [Small molecules that target the ubiquitin system ](https://portlandpress.com/biochemsoctrans/article/48/2/479/222433/) | Biochemical Society Transactions
 2020 | 02 | Wang | [Degradation of proteins by PROTACs and other strategies](https://www.sciencedirect.com/science/article/pii/S2211383519306914?via%3Dihub) | Acta Pharmaceutica Sinica B
 --- | --- | --- | --- | ---
+2019 | 12 | Sun | [Protacs: Great opportunities for academia and industry](https://www.nature.com/articles/s41392-019-0101-6) | Signal Transduction and Targeted Therapy
 2019 | 09 | Chamberlain | [Development of targeted protein degradation therapeutics](https://www.nature.com/articles/s41589-019-0362-y) | Nature Chemical Biology
 2019 | 04 | Roth | [Advances in targeted degradation of endogenous proteins](https://link.springer.com/article/10.1007/s00018-019-03112-6) | Cellular and Molecular Life Sciences
 2019 | 02 | Drummond | [In Silico Modeling of PROTAC-Mediated Ternary Complexes: Validation and Application](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00872) | J. Chem. Inf. Model.
