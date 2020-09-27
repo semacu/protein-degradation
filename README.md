@@ -2,6 +2,7 @@
 Year | Month | First author | Title / Link | Journal
 :---:|:-----:|:------------:|--------------|--------
 2020 | 12 | Liang | [Design and pharmaceutical applications of proteolysis-targeting chimeric molecules](https://www.sciencedirect.com/science/article/abs/pii/S0006295220304470) | Biochemical Pharmacology
+2020 | 09 | Cao | [Induced protein degradation of histone deacetylases 3 (HDAC3) by proteolysis targeting chimera (PROTAC)](https://www.sciencedirect.com/science/article/pii/S0223523420307728) | European Journal of Medicinal Chemistry
 2020 | 09 | Simpson | [Inducible Degradation of Target Proteins through a Tractable Affinity-Directed Protein Missile System](https://www.sciencedirect.com/science/article/pii/S2451945620302361) | Cell Chemical Biology
 2020 | 08 | Cipriano | [Targeting epigenetic reader domains by chemical biology](https://www.sciencedirect.com/science/article/pii/S1367593120300715?via%3Dihub) | Current Opinion in Chemical Biology
 2020 | 08 | Mayor-Ruiz | [Rational discovery of molecular glue degraders via scalable chemical profiling](https://www.nature.com/articles/s41589-020-0594-x) | Nature Chemical Biology
