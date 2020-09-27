@@ -1,16 +1,16 @@
 
 Year | Month | First author | Title / Link | Journal
 :---:|:-----:|:------------:|--------------|--------
-2020 | 12 | Liang | [Design and pharmaceutical applications of proteolysis-targeting chimeric molecules](https://www.sciencedirect.com/science/article/abs/pii/S0006295220304470) | Biochemical Pharmacology
+2020 | 09 | Drummond | **[Improved Accuracy for Modeling PROTAC-Mediated Ternary Complex Formation and Targeted Protein Degradation via New In Silico Methodologies](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00897)** | Journal of Chemical Information and Modeling
 2020 | 09 | Cao | [Induced protein degradation of histone deacetylases 3 (HDAC3) by proteolysis targeting chimera (PROTAC)](https://www.sciencedirect.com/science/article/pii/S0223523420307728) | European Journal of Medicinal Chemistry
 2020 | 09 | Simpson | [Inducible Degradation of Target Proteins through a Tractable Affinity-Directed Protein Missile System](https://www.sciencedirect.com/science/article/pii/S2451945620302361) | Cell Chemical Biology
+2020 | 08 | Liang | [Design and pharmaceutical applications of proteolysis-targeting chimeric molecules](https://www.sciencedirect.com/science/article/abs/pii/S0006295220304470) | Biochemical Pharmacology
 2020 | 08 | Cipriano | [Targeting epigenetic reader domains by chemical biology](https://www.sciencedirect.com/science/article/pii/S1367593120300715?via%3Dihub) | Current Opinion in Chemical Biology
 2020 | 08 | Mayor-Ruiz | [Rational discovery of molecular glue degraders via scalable chemical profiling](https://www.nature.com/articles/s41589-020-0594-x) | Nature Chemical Biology
 2020 | 08 | Han |  [A suite of mathematical solutions to describe ternary complex formation and their application to targeted protein degradation by heterobifunctional ligands](https://www.jbc.org/content/early/2020/08/28/jbc.RA120.014715) | Journal of Biological Chemistry
 2020 | 08 | Mabbitt | [Structural basis for RING-Cys-Relay E3 ligase activity and its role in axon integrity](https://www.nature.com/articles/s41589-020-0598-6) | Nature Chemical Biology
 2020 | 07 | Beveridge | [Native Mass Spectrometry Can Effectively Predict PROTAC Efficacy](https://pubs.acs.org/doi/10.1021/acscentsci.0c00049) | ACS Central Science
 2020 | 07 | Chung | [Structural Insights into PROTAC-Mediated Degradation of Bcl-xL](https://pubs.acs.org/doi/abs/10.1021/acschembio.0c00266) | ACS Chemical Biology
-2020 | 07 | Drummond | [Improved Accuracy for Modeling PROTAC-Mediated Ternary Complex Formation and Targeted Protein Degradation via New In Silico Methodologies](https://www.biorxiv.org/content/10.1101/2020.07.10.197186v1) | bioRxiv
 2020 | 07 | Ruprecht | [A mass spectrometry-based proteome map of drug action in lung cancer cell lines](https://www.nature.com/articles/s41589-020-0572-3) | Nature Chemical Biology
 2020 | 06 | Hanzl | **[Targeted protein degradation: current and future challenges](https://www.sciencedirect.com/science/article/pii/S1367593119301395)** | Current Opinion in Chemical Biology
 2020 | 05 | Luh | [Prey for the Proteasome: Targeted Protein Degradation – A Medicinal Chemist´s Perspective](https://onlinelibrary.wiley.com/doi/10.1002/anie.202004310) | Angewandte Chemie International Edition
