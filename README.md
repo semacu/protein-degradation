@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal
 :---:|:-----:|:------------:|--------------|--------
+2020 | 09 | Zaidman | [PRosettaC: Rosetta based modeling of PROTAC mediated ternary complexes](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00589) | Journal of Chemical Information and Modeling
 2020 | 09 | Drummond | **[Improved Accuracy for Modeling PROTAC-Mediated Ternary Complex Formation and Targeted Protein Degradation via New In Silico Methodologies](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00897)** | Journal of Chemical Information and Modeling
 2020 | 09 | Cao | [Induced protein degradation of histone deacetylases 3 (HDAC3) by proteolysis targeting chimera (PROTAC)](https://www.sciencedirect.com/science/article/pii/S0223523420307728) | European Journal of Medicinal Chemistry
 2020 | 09 | Simpson | [Inducible Degradation of Target Proteins through a Tractable Affinity-Directed Protein Missile System](https://www.sciencedirect.com/science/article/pii/S2451945620302361) | Cell Chemical Biology
