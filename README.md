@@ -22,12 +22,12 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2020 | 02 | Wang | [Degradation of proteins by PROTACs and other strategies](https://www.sciencedirect.com/science/article/pii/S2211383519306914?via%3Dihub) | Acta Pharmaceutica Sinica B | 
 2020 | 01 | Gong | **[Targeting Cullin-RING Ubiquitin Ligases and the Applications in PROTACs](https://link.springer.com/chapter/10.1007%2F978-981-15-1025-0_19)** | Advances in Experimental Medicine and Biology | 
 2020 | 01 | Yang | [The Evolving Druggability and Developability Space: Chemically Modified New Modalities and Emerging Small Molecules](https://link.springer.com/article/10.1208%2Fs12248-019-0402-2) | The AAPS Journal | 
---- | --- | --- | --- | --- | 
+--- | --- | --- | --- | --- | ---
 2019 | 12 | Sun | [Protacs: Great opportunities for academia and industry](https://www.nature.com/articles/s41392-019-0101-6) | Signal Transduction and Targeted Therapy | 
 2019 | 10 | Schapira | **[Targeted protein degradation: expanding the toolbox](https://www.nature.com/articles/s41573-019-0047-y)** | Nature Reviews Drug Discovery | 
 2019 | 10 | Maple | [Developing degraders: principles and perspectives on design and chemical space](https://pubs.rsc.org/en/content/articlelanding/2019/MD/C9MD00272C#!divAbstract) | MedChemComm | 
 2019 | 09 | Chamberlain | [Development of targeted protein degradation therapeutics](https://www.nature.com/articles/s41589-019-0362-y) | Nature Chemical Biology | 
 2019 | 04 | Roth | [Advances in targeted degradation of endogenous proteins](https://link.springer.com/article/10.1007/s00018-019-03112-6) | Cellular and Molecular Life Sciences | 
 2019 | 02 | Drummond | [In Silico Modeling of PROTAC-Mediated Ternary Complexes: Validation and Application](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00872) | Journal of Chemical Information and Modeling | X
---- | --- | --- | --- | --- | 
+--- | --- | --- | --- | --- | ---
 2017 | 05 | Gadd | [Structural basis of PROTAC cooperative recognition for selective protein degradation](https://www.nature.com/articles/nchembio.2329) | Nature Chemical Biology | 
