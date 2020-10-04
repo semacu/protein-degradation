@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2020 | 10 | Yang | [Structural basis for substrate recognition and chemical inhibition of oncogenic MAGE ubiquitin ligases](https://www.nature.com/articles/s41467-020-18708-x) | Nature Communications | 
 2020 | 10 | Bushman | [Proteomics-Based Identification of DUB Substrates Using Selective Inhibitors](https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(20)30377-9) | Cell Chemical Biology | 
 2020 | 09 | Qin | [The therapeutic effect of the BRD4-degrading PROTAC A1874 in human colon cancer cells](http://www.nature.com/articles/s41419-020-03015-6) | Cell Death and Disease |
 2020 | 09 | Zaidman | [PRosettaC: Rosetta based modeling of PROTAC mediated ternary complexes](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00589) | Journal of Chemical Information and Modeling | X
