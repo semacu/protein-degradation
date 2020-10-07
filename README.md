@@ -32,6 +32,7 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2019 | 10 | Schapira | **[Targeted protein degradation: expanding the toolbox](https://www.nature.com/articles/s41573-019-0047-y)** | Nature Reviews Drug Discovery | 
 2019 | 10 | Maple | [Developing degraders: principles and perspectives on design and chemical space](https://pubs.rsc.org/en/content/articlelanding/2019/MD/C9MD00272C#!divAbstract) | MedChemComm | 
 2019 | 09 | Chamberlain | [Development of targeted protein degradation therapeutics](https://www.nature.com/articles/s41589-019-0362-y) | Nature Chemical Biology | 
+2019 | 06 | Ella | [The Hunt for Degrons of the 26S Proteasome](https://www.mdpi.com/2218-273X/9/6/230) | Biomolecules | 
 2019 | 04 | Roth | [Advances in targeted degradation of endogenous proteins](https://link.springer.com/article/10.1007/s00018-019-03112-6) | Cellular and Molecular Life Sciences | 
 2019 | 02 | Drummond | [In Silico Modeling of PROTAC-Mediated Ternary Complexes: Validation and Application](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00872) | Journal of Chemical Information and Modeling | X
 --- | --- | --- | --- | --- | ---
