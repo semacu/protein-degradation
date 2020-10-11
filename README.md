@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2020 | 10 | Goracci | [Understanding the Metabolism of Proteolysis Targeting Chimeras (PROTACs): The Next Step toward Pharmaceutical Applications](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c00793) | Journal of Medicinal Chemistry | 
 2020 | 10 | Miyamae | [A Method for Conditional Regulation of Protein Stability in Native or Near-Native Form](https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(20)30376-7) | Cell Chemical Biology | 
 2020 | 10 | Weng | [PROTAC-DB: an online database of PROTACs](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa807/5917660) | Nucleic Acids Research | X
 2020 | 10 | Yang | [Structural basis for substrate recognition and chemical inhibition of oncogenic MAGE ubiquitin ligases](https://www.nature.com/articles/s41467-020-18708-x) | Nature Communications | 
