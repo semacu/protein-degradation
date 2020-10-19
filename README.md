@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2020 | 10 | Weinmann and Crews | [Protein Degradation with New Chemical Modalities: Successful Strategies in Drug Discovery and Chemical Biology](https://pubs.rsc.org/en/content/ebook/978-1-78801-686-5) | Ebook: Royal Society of Chemistry | X (some)
 2020 | 10 | Lee | [Targeted Degradation of Transcription Coactivator SRC‐1 through the N‐Degron Pathway](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202005004) | Angewandte Chemie International Edition | 
 2020 | 10 | Goracci | [Understanding the Metabolism of Proteolysis Targeting Chimeras (PROTACs): The Next Step toward Pharmaceutical Applications](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c00793) | Journal of Medicinal Chemistry | 
 2020 | 10 | Miyamae | [A Method for Conditional Regulation of Protein Stability in Native or Near-Native Form](https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(20)30376-7) | Cell Chemical Biology | 
