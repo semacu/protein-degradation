@@ -40,6 +40,7 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2019 | 04 | Roth | [Advances in targeted degradation of endogenous proteins](https://link.springer.com/article/10.1007/s00018-019-03112-6) | Cellular and Molecular Life Sciences | 
 2019 | 02 | Drummond | [In Silico Modeling of PROTAC-Mediated Ternary Complexes: Validation and Application](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00872) | Journal of Chemical Information and Modeling | X
 --- | --- | --- | --- | --- | ---
+2018 | 08 | Lucas | [Surface Probing by Fragment-Based Screening and Computational Methods Identifies Ligandable Pockets on the von Hippel-Lindau (VHL) E3 Ubiquitin Ligase](https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00842) | Journal of Medicinal Chemistry | X
 2018 | 06 | Fisher | **[Targeted protein degradation and the enzymology of degraders](https://www.sciencedirect.com/science/article/pii/S1367593118300401)** | Current Opinion in Chemical Biology | 
 --- | --- | --- | --- | --- | ---
 2017 | 05 | Gadd | [Structural basis of PROTAC cooperative recognition for selective protein degradation](https://www.nature.com/articles/nchembio.2329) | Nature Chemical Biology | 
