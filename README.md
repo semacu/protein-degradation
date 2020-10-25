@@ -13,6 +13,7 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2020 | 09 | Drummond | [Improved Accuracy for Modeling PROTAC-Mediated Ternary Complex Formation and Targeted Protein Degradation via New In Silico Methodologies](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00897) | Journal of Chemical Information and Modeling | X
 2020 | 09 | Cao | [Induced protein degradation of histone deacetylases 3 (HDAC3) by proteolysis targeting chimera (PROTAC)](https://www.sciencedirect.com/science/article/pii/S0223523420307728) | European Journal of Medicinal Chemistry | 
 2020 | 09 | Simpson | [Inducible Degradation of Target Proteins through a Tractable Affinity-Directed Protein Missile System](https://www.sciencedirect.com/science/article/pii/S2451945620302361) | Cell Chemical Biology | 
+2020 | 08 | Han | [A suite of mathematical solutions to describe ternary complex formation and their application to targeted protein degradation by hetero-bifunctional ligands](https://www.jbc.org/content/early/2020/08/28/jbc.RA120.014715) | X
 2020 | 08 | Liang | [Design and pharmaceutical applications of proteolysis-targeting chimeric molecules](https://www.sciencedirect.com/science/article/abs/pii/S0006295220304470) | Biochemical Pharmacology | 
 2020 | 08 | Cipriano | [Targeting epigenetic reader domains by chemical biology](https://www.sciencedirect.com/science/article/pii/S1367593120300715?via%3Dihub) | Current Opinion in Chemical Biology | 
 2020 | 08 | Mayor-Ruiz | [Rational discovery of molecular glue degraders via scalable chemical profiling](https://www.nature.com/articles/s41589-020-0594-x) | Nature Chemical Biology | 
@@ -38,6 +39,7 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2019 | 06 | Ella | [The Hunt for Degrons of the 26S Proteasome](https://www.mdpi.com/2218-273X/9/6/230) | Biomolecules | 
 2019 | 04 | Paiva | **[Targeted protein degradation: elements of PROTAC design](https://www.sciencedirect.com/science/article/pii/S1367593118301522)** | Current Opinion in Chemical Biology | 
 2019 | 04 | Roth | [Advances in targeted degradation of endogenous proteins](https://link.springer.com/article/10.1007/s00018-019-03112-6) | Cellular and Molecular Life Sciences | 
+2019 | 03 | Simonetta | [Prospective discovery of small molecule enhancers of an E3 ligase-substrate interaction](https://www.nature.com/articles/s41467-019-09358-9) | Nature Communications | X
 2019 | 02 | Drummond | [In Silico Modeling of PROTAC-Mediated Ternary Complexes: Validation and Application](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00872) | Journal of Chemical Information and Modeling | X
 --- | --- | --- | --- | --- | ---
 2018 | 08 | Lucas | [Surface Probing by Fragment-Based Screening and Computational Methods Identifies Ligandable Pockets on the von Hippel-Lindau (VHL) E3 Ubiquitin Ligase](https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00842) | Journal of Medicinal Chemistry | X
