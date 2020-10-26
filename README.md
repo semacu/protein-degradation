@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2020 | 10 | Bartlett | [A kinetic proofreading model for bispecific protein degraders](https://link.springer.com/article/10.1007/s10928-020-09722-z) | Journal of Pharmacokinetics and Pharmacodynamics | X
 2020 | 10 | Samarasinghe | [Targeted Degradation of Transcription Factors by TRAFTACs: Transcription Factor Targeting Chimeras](https://www.biorxiv.org/content/10.1101/2020.10.12.336529v1) | bioRxiv | 
 2020 | 10 | Weinmann and Crews | [Protein Degradation with New Chemical Modalities: Successful Strategies in Drug Discovery and Chemical Biology](https://pubs.rsc.org/en/content/ebook/978-1-78801-686-5) | Ebook: Royal Society of Chemistry | X (some)
 2020 | 10 | Lee | [Targeted Degradation of Transcription Coactivator SRC‐1 through the N‐Degron Pathway](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202005004) | Angewandte Chemie International Edition | 
