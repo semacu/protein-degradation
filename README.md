@@ -2,6 +2,7 @@
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
 2020 | 11 | Adhikari | [PROTAC-mediated degradation reveals a non-catalytic function of AURORA-A kinase](https://www.nature.com/articles/s41589-020-00652-y) | Nature Chemical Biology |
+2020 | 10 | Nabet | **[Charting a New Path Towards Degrading Every Protein](https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/cbic.202000531)** | ChemBioChem |
 2020 | 10 | Jiang | [PROTACs suppression of GSK-3β, a crucial kinase in neurodegenerative diseases](https://www.sciencedirect.com/science/article/pii/S0223523420309211) | European Journal of Medicinal Chemistry |
 2020 | 10 | Ghidini | [RNA‐PROTACs – degraders of RNA‐binding proteins](https://onlinelibrary.wiley.com/doi/10.1002/anie.202012330) | Angewandte Chemie International Edition |
 2020 | 10 | Bartlett | [A kinetic proofreading model for bispecific protein degraders](https://link.springer.com/article/10.1007/s10928-020-09722-z) | Journal of Pharmacokinetics and Pharmacodynamics | X
