@@ -49,6 +49,7 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2019 | 03 | Simonetta | [Prospective discovery of small molecule enhancers of an E3 ligase-substrate interaction](https://www.nature.com/articles/s41467-019-09358-9) | Nature Communications | X
 2019 | 02 | Drummond | [In Silico Modeling of PROTAC-Mediated Ternary Complexes: Validation and Application](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00872) | Journal of Chemical Information and Modeling | X
 --- | --- | --- | --- | --- | ---
+2018 | 09 | Clift | [Acute and rapid degradation of endogenous proteins by Trim-Away](https://www.nature.com/articles/s41596-018-0028-3) | Nature Protocols | X
 2018 | 08 | Lucas | [Surface Probing by Fragment-Based Screening and Computational Methods Identifies Ligandable Pockets on the von Hippel-Lindau (VHL) E3 Ubiquitin Ligase](https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00842) | Journal of Medicinal Chemistry | X
 2018 | 06 | Fisher | **[Targeted protein degradation and the enzymology of degraders](https://www.sciencedirect.com/science/article/pii/S1367593118300401)** | Current Opinion in Chemical Biology | 
 --- | --- | --- | --- | --- | ---
