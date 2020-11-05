@@ -29,7 +29,7 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2020 | 07 | Chung | [Structural Insights into PROTAC-Mediated Degradation of Bcl-xL](https://pubs.acs.org/doi/abs/10.1021/acschembio.0c00266) | ACS Chemical Biology | 
 2020 | 07 | Ruprecht | [A mass spectrometry-based proteome map of drug action in lung cancer cell lines](https://www.nature.com/articles/s41589-020-0572-3) | Nature Chemical Biology | 
 2020 | 06 | Hanzl | **[Targeted protein degradation: current and future challenges](https://www.sciencedirect.com/science/article/pii/S1367593119301395)** | Current Opinion in Chemical Biology | 
-2020 | 05 | Luh | [Prey for the Proteasome: Targeted Protein Degradation – A Medicinal Chemist´s Perspective](https://onlinelibrary.wiley.com/doi/10.1002/anie.202004310) | Angewandte Chemie International Edition | 
+2020 | 05 | Luh | **[Prey for the Proteasome: Targeted Protein Degradation – A Medicinal Chemist´s Perspective](https://onlinelibrary.wiley.com/doi/10.1002/anie.202004310)** | Angewandte Chemie International Edition | 
 2020 | 03 | Imrie | [Deep Generative Models for 3D Linker Design](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b01120) | Journal of Chemical Information and Modeling | X
 2020 | 03 | Wu | [Small molecules that target the ubiquitin system ](https://portlandpress.com/biochemsoctrans/article/48/2/479/222433/) | Biochemical Society Transactions | 
 2020 | 02 | Deshaies | **[Multispecific drugs herald a new era of biopharmaceutical innovation](https://www.nature.com/articles/s41586-020-2168-1)** | Nature | 
