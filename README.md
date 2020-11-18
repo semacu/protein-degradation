@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2020 | 11 | Schiemer | [Snapshots and ensembles of BTK and cIAP1 protein degrader ternary complexes](https://www.nature.com/articles/s41589-020-00686-2) | Nature Chemical Biology |
 2020 | 11 | Adhikari | [PROTAC-mediated degradation reveals a non-catalytic function of AURORA-A kinase](https://www.nature.com/articles/s41589-020-00652-y) | Nature Chemical Biology |
 2020 | 10 | Nabet | **[Charting a New Path Towards Degrading Every Protein](https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/cbic.202000531)** | ChemBioChem |
 2020 | 10 | Jiang | [PROTACs suppression of GSK-3β, a crucial kinase in neurodegenerative diseases](https://www.sciencedirect.com/science/article/pii/S0223523420309211) | European Journal of Medicinal Chemistry |
