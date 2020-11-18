@@ -56,3 +56,6 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2018 | 06 | Fisher | **[Targeted protein degradation and the enzymology of degraders](https://www.sciencedirect.com/science/article/pii/S1367593118300401)** | Current Opinion in Chemical Biology | 
 --- | --- | --- | --- | --- | ---
 2017 | 05 | Gadd | [Structural basis of PROTAC cooperative recognition for selective protein degradation](https://www.nature.com/articles/nchembio.2329) | Nature Chemical Biology | 
+--- | --- | --- | --- | --- | ---
+2016 | 07 | Medvar | [Comprehensive database of human E3 ubiquitin ligases: application to aquaporin-2 regulation](https://journals.physiology.org/doi/full/10.1152/physiolgenomics.00031.2016) | Physiological genomics | 
+
