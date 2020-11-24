@@ -54,6 +54,7 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2018 | 09 | Clift | [Acute and rapid degradation of endogenous proteins by Trim-Away](https://www.nature.com/articles/s41596-018-0028-3) | Nature Protocols | X
 2018 | 08 | Lucas | [Surface Probing by Fragment-Based Screening and Computational Methods Identifies Ligandable Pockets on the von Hippel-Lindau (VHL) E3 Ubiquitin Ligase](https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00842) | Journal of Medicinal Chemistry | X
 2018 | 06 | Fisher | **[Targeted protein degradation and the enzymology of degraders](https://www.sciencedirect.com/science/article/pii/S1367593118300401)** | Current Opinion in Chemical Biology | 
+2018 | 03 | Ge | [Integrated Genomic Analysis of the Ubiquitin Pathway across Cancer Types](https://www.sciencedirect.com/science/article/pii/S2211124718303929?via%3Dihub) | Cell Reports | X
 --- | --- | --- | --- | --- | ---
 2017 | 05 | Gadd | [Structural basis of PROTAC cooperative recognition for selective protein degradation](https://www.nature.com/articles/nchembio.2329) | Nature Chemical Biology | 
 --- | --- | --- | --- | --- | ---
