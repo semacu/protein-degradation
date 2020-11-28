@@ -50,6 +50,7 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2019 | 04 | Roth | [Advances in targeted degradation of endogenous proteins](https://link.springer.com/article/10.1007/s00018-019-03112-6) | Cellular and Molecular Life Sciences | 
 2019 | 03 | Simonetta | [Prospective discovery of small molecule enhancers of an E3 ligase-substrate interaction](https://www.nature.com/articles/s41467-019-09358-9) | Nature Communications | X
 2019 | 02 | Drummond | [In Silico Modeling of PROTAC-Mediated Ternary Complexes: Validation and Application](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00872) | Journal of Chemical Information and Modeling | X
+2019 | 01 | Buhimschi | [Evolving Rules for Protein Degradation? Insights from the Zinc Finger Degrome](https://pubs.acs.org/doi/10.1021/acs.biochem.8b01307) | Biochemistry | 
 2019 | 01 | Liu | [UbiHub: a data hub for the explorers of ubiquitination pathways](https://academic.oup.com/bioinformatics/article/35/16/2882/5270660) | Bioinformatics | X
 --- | --- | --- | --- | --- | ---
 2018 | 09 | Clift | [Acute and rapid degradation of endogenous proteins by Trim-Away](https://www.nature.com/articles/s41596-018-0028-3) | Nature Protocols | X
