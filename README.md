@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2020 | 11 | Matyskiela | [Cereblon Modulators Target ZBTB16 and Its Oncogenic Fusion Partners for Degradation via Distinct Structural Degrons](https://pubs.acs.org/doi/10.1021/acschembio.0c00674) | ACS Chemical Biology |
 2020 | 11 | Schiemer | [Snapshots and ensembles of BTK and cIAP1 protein degrader ternary complexes](https://www.nature.com/articles/s41589-020-00686-2) | Nature Chemical Biology |
 2020 | 11 | Adhikari | [PROTAC-mediated degradation reveals a non-catalytic function of AURORA-A kinase](https://www.nature.com/articles/s41589-020-00652-y) | Nature Chemical Biology |
 2020 | 10 | Nabet | [Charting a New Path Towards Degrading Every Protein](https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/cbic.202000531) | ChemBioChem |
