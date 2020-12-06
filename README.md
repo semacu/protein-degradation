@@ -1,9 +1,9 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
-2020 | 12 | Liu | [A Proteomic Platform to Identify Off-Target Proteins Associated with Therapeutic Modalities that Induce Protein Degradation or Gene Silencing](https://www.biorxiv.org/content/10.1101/2020.11.18.389148v1) | Communications Biology | 
+2020 | 12 | Liu | [A Proteomic Platform to Identify Off-Target Proteins Associated with Therapeutic Modalities that Induce Protein Degradation or Gene Silencing](https://www.biorxiv.org/content/10.1101/2020.11.18.389148v1) | bioRxiv | 
 2020 | 12 | Donovan | [Mapping the Degradable Kinome Provides a Resource for Expedited Degrader Development](https://www.sciencedirect.com/science/article/pii/S0092867420314458?dgcid=rss_sd_all) | Cell | 
-2020 | 11 | Chatterjee | [Targeted intracellular degradation of SARS-CoV-2 via computationally optimized peptide fusions](https://www.nature.com/articles/s42003-020-01470-7) | ACS Chemical Biology |
+2020 | 11 | Chatterjee | [Targeted intracellular degradation of SARS-CoV-2 via computationally optimized peptide fusions](https://www.nature.com/articles/s42003-020-01470-7) | Communications Biology |
 2020 | 11 | Matyskiela | [Cereblon Modulators Target ZBTB16 and Its Oncogenic Fusion Partners for Degradation via Distinct Structural Degrons](https://pubs.acs.org/doi/10.1021/acschembio.0c00674) | ACS Chemical Biology |
 2020 | 11 | Schiemer | [Snapshots and ensembles of BTK and cIAP1 protein degrader ternary complexes](https://www.nature.com/articles/s41589-020-00686-2) | Nature Chemical Biology |
 2020 | 11 | Adhikari | [PROTAC-mediated degradation reveals a non-catalytic function of AURORA-A kinase](https://www.nature.com/articles/s41589-020-00652-y) | Nature Chemical Biology |
