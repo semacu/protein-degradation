@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2020 | 12 | Tong | [Bardoxolone conjugation enables targeted protein degradation of BRD4](https://www.nature.com/articles/s41598-020-72491-9) | Scientific Reports | 
 2020 | 12 | Liu | [A Proteomic Platform to Identify Off-Target Proteins Associated with Therapeutic Modalities that Induce Protein Degradation or Gene Silencing](https://www.biorxiv.org/content/10.1101/2020.11.18.389148v1) | bioRxiv | 
 2020 | 12 | Donovan | [Mapping the Degradable Kinome Provides a Resource for Expedited Degrader Development](https://www.sciencedirect.com/science/article/pii/S0092867420314458?dgcid=rss_sd_all) | Cell | 
 2020 | 11 | Chatterjee | [Targeted intracellular degradation of SARS-CoV-2 via computationally optimized peptide fusions](https://www.nature.com/articles/s42003-020-01470-7) | Communications Biology |
