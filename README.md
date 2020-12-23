@@ -1,7 +1,8 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
-2020 | 12 | Leissing | [Structure driven compound optimization in targeted protein degradation](https://www.sciencedirect.com/science/article/pii/S1740674920300263) | Drug Discovery Today
+2020 | 12 | Caine | [Targeted Protein Degradation Phenotypic Studies Using HaloTag CRISPR/Cas9 Endogenous Tagging Coupled with HaloPROTAC3](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpph.81) | Current Protocols in Pharmacology | 
+2020 | 12 | Leissing | [Structure driven compound optimization in targeted protein degradation](https://www.sciencedirect.com/science/article/pii/S1740674920300263) | Drug Discovery Today |
 2020 | 12 | Tong | [Bardoxolone conjugation enables targeted protein degradation of BRD4](https://www.nature.com/articles/s41598-020-72491-9) | Scientific Reports | 
 2020 | 12 | Liu | [A Proteomic Platform to Identify Off-Target Proteins Associated with Therapeutic Modalities that Induce Protein Degradation or Gene Silencing](https://www.biorxiv.org/content/10.1101/2020.11.18.389148v1) | bioRxiv | 
 2020 | 12 | Donovan | [Mapping the Degradable Kinome Provides a Resource for Expedited Degrader Development](https://www.sciencedirect.com/science/article/pii/S0092867420314458?dgcid=rss_sd_all) | Cell | 
