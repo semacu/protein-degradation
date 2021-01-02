@@ -1,6 +1,9 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 01 | Zeng | [Proteolysis targeting chimera (PROTAC) in drug discovery paradigm: Recent progress and future challenges](https://www.sciencedirect.com/science/article/abs/pii/S0223523420309533) | European Journal of Medicinal Chemistry | 
+2021 | 01 | Martín-Acosta | [PROTACs to address the challenges facing small molecule inhibitors](https://www.sciencedirect.com/science/article/abs/pii/S022352342030965X) | European Journal of Medicinal Chemistry | 
+--- | --- | --- | --- | --- | ---
 2020 | 12 | Atilaw | [Solution Conformations Shed Light on PROTAC Cell Permeability](https://pubs.acs.org/doi/10.1021/acsmedchemlett.0c00556) | ACS Medicinal Chemistry Letters | 
 2020 | 12 | Caine | [Targeted Protein Degradation Phenotypic Studies Using HaloTag CRISPR/Cas9 Endogenous Tagging Coupled with HaloPROTAC3](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpph.81) | Current Protocols in Pharmacology | 
 2020 | 12 | Leissing | [Structure driven compound optimization in targeted protein degradation](https://www.sciencedirect.com/science/article/pii/S1740674920300263) | Drug Discovery Today |
