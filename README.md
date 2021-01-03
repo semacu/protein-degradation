@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 01 | Banchenko | [Structural insights into Cullin4-RING ubiquitin ligase remodelling by Vpr from simian immunodeficiency viruses](https://www.biorxiv.org/content/10.1101/2020.12.31.424931v1) | bioRxiv | 
 2021 | 01 | Zeng | [Proteolysis targeting chimera (PROTAC) in drug discovery paradigm: Recent progress and future challenges](https://www.sciencedirect.com/science/article/abs/pii/S0223523420309533) | European Journal of Medicinal Chemistry | 
 2021 | 01 | Martín-Acosta | [PROTACs to address the challenges facing small molecule inhibitors](https://www.sciencedirect.com/science/article/abs/pii/S022352342030965X) | European Journal of Medicinal Chemistry | 
 --- | --- | --- | --- | --- | ---
