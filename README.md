@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 01 | Shirasaki | [Functional Genomics Identify Distinct and Overlapping Genes Mediating Resistance to Different Classes of Heterobifunctional Degraders of Oncoproteins](https://www.sciencedirect.com/science/article/pii/S2211124720315217) | Cell Reports | 
 2021 | 01 | Benowitz | [The therapeutic potential of PROTACs](https://www.tandfonline.com/doi/full/10.1080/13543776.2021.1840553) | Expert Opinion on Therapeutic Patents | 
 2021 | 01 | Yan | [Discovery of a PROTAC targeting ALK with in vivo activity](https://www.sciencedirect.com/science/article/pii/S0223523420311223) | European Journal of Medicinal Chemistry | 
 2021 | 01 | Cotton | [Development of Antibody-Based PROTACs for the Degradation of the Cell-Surface Immune Checkpoint Protein PD-L1](https://pubs.acs.org/doi/10.1021/jacs.0c10008) | Journal of the American Chemical Society | 
