@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 02 | Feb | [The rise of covalent proteolysis targeting chimeras](https://stm.sciencemag.org/content/13/575/eabb6295) | Current Opinion in Chemical Biology | 
 2021 | 01 | Jan | [Reversible ON- and OFF-switch chimeric antigen receptors controlled by lenalidomide](https://stm.sciencemag.org/content/13/575/eabb6295) | Science Translational Medicine | 
 2021 | 01 | Shirasaki | [Functional Genomics Identify Distinct and Overlapping Genes Mediating Resistance to Different Classes of Heterobifunctional Degraders of Oncoproteins](https://www.sciencedirect.com/science/article/pii/S2211124720315217) | Cell Reports | 
 2021 | 01 | Benowitz | [The therapeutic potential of PROTACs](https://www.tandfonline.com/doi/full/10.1080/13543776.2021.1840553) | Expert Opinion on Therapeutic Patents | 
