@@ -1,7 +1,8 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
-2021 | 02 | Feb | [The rise of covalent proteolysis targeting chimeras](https://stm.sciencemag.org/content/13/575/eabb6295) | Current Opinion in Chemical Biology | 
+2021 | 02 | Gabizon | [The rise of covalent proteolysis targeting chimeras](https://stm.sciencemag.org/content/13/575/eabb6295) | Current Opinion in Chemical Biology | 
+2021 | 01 | Luo | [Chemoproteomics-enabled discovery of covalent RNF114-based degraders that mimic natural product function](https://www.sciencedirect.com/science/article/pii/S2451945621000052) | Cell Chemical Biology | 
 2021 | 01 | Jan | [Reversible ON- and OFF-switch chimeric antigen receptors controlled by lenalidomide](https://stm.sciencemag.org/content/13/575/eabb6295) | Science Translational Medicine | 
 2021 | 01 | Shirasaki | [Functional Genomics Identify Distinct and Overlapping Genes Mediating Resistance to Different Classes of Heterobifunctional Degraders of Oncoproteins](https://www.sciencedirect.com/science/article/pii/S2211124720315217) | Cell Reports | 
 2021 | 01 | Benowitz | [The therapeutic potential of PROTACs](https://www.tandfonline.com/doi/full/10.1080/13543776.2021.1840553) | Expert Opinion on Therapeutic Patents | 
@@ -64,6 +65,7 @@ Year | Month | First author | Title / Link | Journal | Computational?
 2019 | 10 | Maple | [Developing degraders: principles and perspectives on design and chemical space](https://pubs.rsc.org/en/content/articlelanding/2019/MD/C9MD00272C#!divAbstract) | MedChemComm | 
 2019 | 09 | Chamberlain | [Development of targeted protein degradation therapeutics](https://www.nature.com/articles/s41589-019-0362-y) | Nature Chemical Biology | 
 2019 | 08 | Maniaci | [Bifunctional chemical probes inducing protein–protein interactions](https://www.sciencedirect.com/science/article/pii/S136759311930064X) | Current Opinion in Chemical Biology | 
+2019 | 07 | Spradlin | [Harnessing the anti-cancer natural product nimbolide for targeted protein degradation](https://www.nature.com/articles/s41589-019-0304-8) | Nature Chemical Biology | 
 2019 | 06 | Ella | [The Hunt for Degrons of the 26S Proteasome](https://www.mdpi.com/2218-273X/9/6/230) | Biomolecules | 
 2019 | 04 | Paiva | **[Targeted protein degradation: elements of PROTAC design](https://www.sciencedirect.com/science/article/pii/S1367593118301522)** | Current Opinion in Chemical Biology | 
 2019 | 04 | Roth | [Advances in targeted degradation of endogenous proteins](https://link.springer.com/article/10.1007/s00018-019-03112-6) | Cellular and Molecular Life Sciences | 
