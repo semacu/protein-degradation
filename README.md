@@ -2,6 +2,7 @@
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
 2021 | 02 | Gabizon | [The rise of covalent proteolysis targeting chimeras](https://stm.sciencemag.org/content/13/575/eabb6295) | Current Opinion in Chemical Biology | 
+2021 | 01 | Serapian | [Exploiting the folding and degradation machineries to target undruggable proteins: What can the computational approach tell us?](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.202000960) | ChemBioChem | X
 2021 | 01 | Luo | [Chemoproteomics-enabled discovery of covalent RNF114-based degraders that mimic natural product function](https://www.sciencedirect.com/science/article/pii/S2451945621000052) | Cell Chemical Biology | 
 2021 | 01 | Jan | [Reversible ON- and OFF-switch chimeric antigen receptors controlled by lenalidomide](https://stm.sciencemag.org/content/13/575/eabb6295) | Science Translational Medicine | 
 2021 | 01 | Shirasaki | [Functional Genomics Identify Distinct and Overlapping Genes Mediating Resistance to Different Classes of Heterobifunctional Degraders of Oncoproteins](https://www.sciencedirect.com/science/article/pii/S2211124720315217) | Cell Reports | 
