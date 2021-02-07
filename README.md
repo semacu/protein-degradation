@@ -2,6 +2,9 @@
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
 2021 | 02 | Gabizon | [The rise of covalent proteolysis targeting chimeras](https://stm.sciencemag.org/content/13/575/eabb6295) | Current Opinion in Chemical Biology | 
+2021 | 01 | Kessler | [DUB esterase activity further decodes ubiquitin’s enigma](https://www.pnas.org/content/118/6/e2026389118) | PNAS |
+2021 | 01 | De Cesare | [Deubiquitinating enzyme amino acid profiling reveals a class of ubiquitin esterases](https://www.pnas.org/content/118/4/e2006947118.long) | PNAS |
+2021 | 01 | Yeh | [The C‐degron pathway eliminates mislocalized proteins and products of deubiquitinating enzymes](https://www.embopress.org/doi/full/10.15252/embj.2020105846) | EMBO Journal | 
 2021 | 01 | Serapian | [Exploiting the folding and degradation machineries to target undruggable proteins: What can the computational approach tell us?](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.202000960) | ChemMedChem | X
 2021 | 01 | Luo | [Chemoproteomics-enabled discovery of covalent RNF114-based degraders that mimic natural product function](https://www.sciencedirect.com/science/article/pii/S2451945621000052) | Cell Chemical Biology | 
 2021 | 01 | Jan | [Reversible ON- and OFF-switch chimeric antigen receptors controlled by lenalidomide](https://stm.sciencemag.org/content/13/575/eabb6295) | Science Translational Medicine | 
