@@ -2,6 +2,7 @@
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
 2021 | 02 | Gabizon | [The rise of covalent proteolysis targeting chimeras](https://stm.sciencemag.org/content/13/575/eabb6295) | Current Opinion in Chemical Biology | 
+2021 | 01 | Ermondi | [PROTACs and Building Blocks: The 2D Chemical Space in Very Early Drug Discovery](https://www.mdpi.com/1420-3049/26/3/672) | Molecules | X 
 2021 | 01 | Maiwald | [Sweet and Blind Spots in E3 Ligase Ligand Space Revealed by a Thermophoresis-Based Assay](https://pubs.acs.org/doi/10.1021/acsmedchemlett.0c00440) | ACS Medicinal Chemistry Letters
 2021 | 01 | Kessler | [DUB esterase activity further decodes ubiquitin’s enigma](https://www.pnas.org/content/118/6/e2026389118) | PNAS |
 2021 | 01 | De Cesare | [Deubiquitinating enzyme amino acid profiling reveals a class of ubiquitin esterases](https://www.pnas.org/content/118/4/e2006947118.long) | PNAS |
