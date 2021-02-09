@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 02 | Cao | [Recent insight into the role of RING-finger E3 ligases in glioma](https://portlandpress.com/biochemsoctrans/article/doi/10.1042/BST20201060/227806/Recent-insight-into-the-role-of-RING-finger-E3) | Biochemical Society Transactions
 2021 | 02 | Horn-Ghetko | [Ubiquitin ligation to F-box protein targets by SCF–RBR E3–E3 super-assembly](https://www.nature.com/articles/s41586-021-03197-9) | Nature | 
 2021 | 02 | Koduri | [Targeting oncoproteins with a positive selection assay for protein degraders](https://advances.sciencemag.org/content/7/6/eabd6263) | Science Advances | 
 2021 | 02 | Gabizon | [The rise of covalent proteolysis targeting chimeras](https://stm.sciencemag.org/content/13/575/eabb6295) | Current Opinion in Chemical Biology | 
