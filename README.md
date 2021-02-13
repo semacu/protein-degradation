@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 02 | Alabi | [Mutant-selective degradation by BRAF-targeting PROTACs](https://www.nature.com/articles/s41467-021-21159-7) | Nature Communications
 2021 | 02 | Kaiho-Soma | [TRIP12 promotes small-molecule-induced degradation through K29/K48-branched ubiquitin chains](https://www.cell.com/molecular-cell/fulltext/S1097-2765(21)00043-5) | Molecular Cell
 2021 | 02 | Powell | [Selective Degradation of GSPT1 by Cereblon Modulators Identified via a Focused Combinatorial Library](https://pubs.acs.org/doi/10.1021/acschembio.0c00520) | ACS Chemical Biology
 2021 | 02 | Cao | [Recent insight into the role of RING-finger E3 ligases in glioma](https://portlandpress.com/biochemsoctrans/article/doi/10.1042/BST20201060/227806/Recent-insight-into-the-role-of-RING-finger-E3) | Biochemical Society Transactions
