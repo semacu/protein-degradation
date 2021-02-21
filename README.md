@@ -1,6 +1,9 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 01 | Liu | [Design and Synthesis of EZH2-Based PROTACs to Degrade the Complex for Targeting the Noncatalytic Activity of EZH2](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c02234) | Journal of Medicinal Chemistry | 
+2021 | 02 | Dragovich | [Antibody-Mediated Delivery of Chimeric BRD4 Degraders. Part 1: Exploration of Antibody Linker, Payload Loading, and Payload Molecular Properties](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01845) | Journal of Medicinal Chemistry | 
+2021 | 02 | Dragovich | [Antibody-Mediated Delivery of Chimeric BRD4 Degraders. Part 2: Improvement of In Vitro Antiproliferation Activity and In Vivo Antitumor Efficacy](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01846) | Journal of Medicinal Chemistry | 
 2021 | 02 | Tokheim | [Systematic characterization of mutations altering protein degradation in human cancers](https://www.sciencedirect.com/science/article/pii/S109727652100040X) | Molecular Cell | X
 2021 | 02 | Alabi | [Mutant-selective degradation by BRAF-targeting PROTACs](https://www.nature.com/articles/s41467-021-21159-7) | Nature Communications
 2021 | 02 | Kaiho-Soma | [TRIP12 promotes small-molecule-induced degradation through K29/K48-branched ubiquitin chains](https://www.cell.com/molecular-cell/fulltext/S1097-2765(21)00043-5) | Molecular Cell
