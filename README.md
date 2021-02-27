@@ -1,7 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
-2021 | 02 | Bai | [Rationalizing PROTAC-Mediated Ternary Complex Formation Using Rosetta](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01451) | Journal of Medicinal Chemistry | Journal of Chemical Information and Modeling | X
+2021 | 02 | Bai | [Rationalizing PROTAC-Mediated Ternary Complex Formation Using Rosetta](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01451) | Journal of Chemical Information and Modeling | X
 2021 | 02 | Liu | [Design and Synthesis of EZH2-Based PROTACs to Degrade the Complex for Targeting the Noncatalytic Activity of EZH2](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c02234) | Journal of Medicinal Chemistry | 
 2021 | 02 | Dragovich | [Antibody-Mediated Delivery of Chimeric BRD4 Degraders. Part 1: Exploration of Antibody Linker, Payload Loading, and Payload Molecular Properties](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01845) | Journal of Medicinal Chemistry | 
 2021 | 02 | Dragovich | [Antibody-Mediated Delivery of Chimeric BRD4 Degraders. Part 2: Improvement of In Vitro Antiproliferation Activity and In Vivo Antitumor Efficacy](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01846) | Journal of Medicinal Chemistry | 
