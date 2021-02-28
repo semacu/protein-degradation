@@ -1,7 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
-2021 | 02 | Kolb | [Proteolysis-targeting chimera against BCL-XL destroys tumor-infiltrating regulatory T cells](https://www.nature.com/articles/s41467-021-21573-x) | Nature communications |
+2021 | 02 | Kolb | [Proteolysis-targeting chimera against BCL-XL destroys tumor-infiltrating regulatory T cells](https://www.nature.com/articles/s41467-021-21573-x) | Nature Communications |
 2021 | 02 | Bai | [Rationalizing PROTAC-Mediated Ternary Complex Formation Using Rosetta](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01451) | Journal of Chemical Information and Modeling | X
 2021 | 02 | Liu | [Design and Synthesis of EZH2-Based PROTACs to Degrade the Complex for Targeting the Noncatalytic Activity of EZH2](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c02234) | Journal of Medicinal Chemistry | 
 2021 | 02 | Dragovich | [Antibody-Mediated Delivery of Chimeric BRD4 Degraders. Part 1: Exploration of Antibody Linker, Payload Loading, and Payload Molecular Properties](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01845) | Journal of Medicinal Chemistry | 
