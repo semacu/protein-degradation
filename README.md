@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 02 | Zhang | [SPIN4 Is a Principal Endogenous Substrate of the E3 Ubiquitin Ligase DCAF16](https://pubs.acs.org/doi/10.1021/acs.biochem.1c00067) | Biochemistry |
 2021 | 02 | Kolb | [Proteolysis-targeting chimera against BCL-XL destroys tumor-infiltrating regulatory T cells](https://www.nature.com/articles/s41467-021-21573-x) | Nature Communications |
 2021 | 02 | Bai | [Rationalizing PROTAC-Mediated Ternary Complex Formation Using Rosetta](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01451) | Journal of Chemical Information and Modeling | X
 2021 | 02 | Liu | [Design and Synthesis of EZH2-Based PROTACs to Degrade the Complex for Targeting the Noncatalytic Activity of EZH2](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c02234) | Journal of Medicinal Chemistry | 
