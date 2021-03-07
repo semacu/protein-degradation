@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 03 | Mohler | [An Overview of Next-Generation Androgen Receptor-Targeted Therapeutics in Development for the Treatment of Prostate Cancer](https://www.mdpi.com/1422-0067/22/4/2124) | International Journal of Molecular Sciences |
 2021 | 03 | Wang | [Discovery of a first-in-class CDK2 selective degrader for AML differentiation therapy](https://www.nature.com/articles/s41589-021-00742-5) | Nature Chemical Biology |
 2021 | 03 | Kim | [Avoid the trap: targeting PARP1 beyond human malignancy](https://www.sciencedirect.com/science/article/pii/S2451945621000568) | Cell Chemical Biology |
 2021 | 03 | Jan | [Cancer therapies based on targeted protein degradation — lessons learned with lenalidomide](https://www.nature.com/articles/s41571-021-00479-z) | Nature Reviews Clinical Oncology |
