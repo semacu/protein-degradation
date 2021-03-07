@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 03 | Kim | [Avoid the trap: targeting PARP1 beyond human malignancy](https://www.sciencedirect.com/science/article/pii/S2451945621000568) | Cell Chemical Biology |
 2021 | 03 | Jan | [Cancer therapies based on targeted protein degradation — lessons learned with lenalidomide](https://www.nature.com/articles/s41571-021-00479-z) | Nature Reviews Clinical Oncology |
 2021 | 03 | Zhang | [Ubiquitination of Nonhistone Proteins in Cancer Development and Treatment](https://www.frontiersin.org/articles/10.3389/fonc.2020.621294/full) | Frontiers in Oncology |
 2021 | 03 | Kastl | [Small-Molecule Degraders beyond PROTACs—Challenges and Opportunities](https://journals.sagepub.com/doi/10.1177/2472555221991104) | SLAS Discovery |
