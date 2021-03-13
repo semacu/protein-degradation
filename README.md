@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 03 | Zheng | [Novel PROTACs for degradation of SHP2 protein](https://www.sciencedirect.com/science/article/abs/pii/S0045206821001656) | Bioorganic Chemistry |
 2021 | 03 | Jaeger | [Fast-acting chemical tools to delineate causality in transcriptional control](https://www.sciencedirect.com/science/article/pii/S1097276521001258) | Molecular Cell |
 2021 | 03 | Mohler | [An Overview of Next-Generation Androgen Receptor-Targeted Therapeutics in Development for the Treatment of Prostate Cancer](https://www.mdpi.com/1422-0067/22/4/2124) | International Journal of Molecular Sciences |
 2021 | 03 | Wang | [Discovery of a first-in-class CDK2 selective degrader for AML differentiation therapy](https://www.nature.com/articles/s41589-021-00742-5) | Nature Chemical Biology |
