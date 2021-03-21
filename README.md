@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 03 | Mullard | [Targeted protein degraders crowd into the clinic](https://www.nature.com/articles/d41573-021-00052-4) | Nature Reviews Drug Discovery |
 2021 | 03 | Spradlin | [Reimagining Druggability Using Chemoproteomic Platforms](https://pubs.acs.org/doi/10.1021/acs.accounts.1c00065) | Accounts of Chemical Research |
 2021 | 03 | Shao | [Destruction of DNA-binding proteins by programmable O’PROTAC: Oligonucleotide-based PROTAC](https://www.biorxiv.org/content/10.1101/2021.03.08.434493v1) | bioRxiv |
 2021 | 03 | Zheng | [Novel PROTACs for degradation of SHP2 protein](https://www.sciencedirect.com/science/article/abs/pii/S0045206821001656) | Bioorganic Chemistry |
