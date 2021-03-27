@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 03 | Jiang | [Discovery and resistance mechanism of a selective CDK12 degrader](https://www.nature.com/articles/s41589-021-00765-y) | Nature Chemical Biology |
 2021 | 03 | Hundley | [A comprehensive phenotypic CRISPR-Cas9 screen of the ubiquitin pathway uncovers roles of ubiquitin ligases in mitosis](https://www.sciencedirect.com/science/article/pii/S1097276521000149) | Molecular Cell |
 2021 | 03 | Mullard | [Targeted protein degraders crowd into the clinic](https://www.nature.com/articles/d41573-021-00052-4) | Nature Reviews Drug Discovery |
 2021 | 03 | Spradlin | [Reimagining Druggability Using Chemoproteomic Platforms](https://pubs.acs.org/doi/10.1021/acs.accounts.1c00065) | Accounts of Chemical Research |
