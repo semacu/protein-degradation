@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 03 | Ege | [Phenotypic screening with target identification and validation in the discovery and development of E3 ligase modulators](https://www.sciencedirect.com/science/article/pii/S2451945621000969) | Cell Chemical Biology | 
 2021 | 03 | Bond | [Proteolysis targeting chimeras (PROTACs) come of age: entering the third decade of targeted protein degradation](https://pubs.rsc.org/en/content/articlehtml/2021/cb/d1cb00011j) | RSC Chemical Biology | 
 2021 | 03 | Ahn | [LYTACs that engage the asialoglycoprotein receptor for targeted protein degradation](https://www.nature.com/articles/s41589-021-00770-1) | Nature Chemical Biology |
 2021 | 03 | Pei | [Targeting Lysosomal Degradation Pathways: New Strategies and Techniques for Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01689) | Journal of Medicinal Chemistry |
