@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 03 | Bond | [Proteolysis targeting chimeras (PROTACs) come of age: entering the third decade of targeted protein degradation](https://pubs.rsc.org/en/content/articlehtml/2021/cb/d1cb00011j) | RSC Chemical Biology | 
 2021 | 03 | Ahn | [LYTACs that engage the asialoglycoprotein receptor for targeted protein degradation](https://www.nature.com/articles/s41589-021-00770-1) | Nature Chemical Biology |
 2021 | 03 | Pei | [Targeting Lysosomal Degradation Pathways: New Strategies and Techniques for Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01689) | Journal of Medicinal Chemistry |
 2021 | 03 | Jiang | [Discovery and resistance mechanism of a selective CDK12 degrader](https://www.nature.com/articles/s41589-021-00765-y) | Nature Chemical Biology |
