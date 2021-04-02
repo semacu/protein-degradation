@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 03 | Castaldi | [Advances in Protein Degradation](https://journals.sagepub.com/doi/10.1177/24725552211001823) | SLAS Discovery |
 2021 | 03 | Ahn | [Degradation from the outside in: targeting extracellular and membrane proteins for degradation through the endolysosomal pathway](https://www.sciencedirect.com/science/article/pii/S2451945621001094) | Cell Chemical Biology |
 2021 | 03 | Ege | [Phenotypic screening with target identification and validation in the discovery and development of E3 ligase modulators](https://www.sciencedirect.com/science/article/pii/S2451945621000969) | Cell Chemical Biology | 
 2021 | 03 | Bond | [Proteolysis targeting chimeras (PROTACs) come of age: entering the third decade of targeted protein degradation](https://pubs.rsc.org/en/content/articlehtml/2021/cb/d1cb00011j) | RSC Chemical Biology | 
