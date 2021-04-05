@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 04 | Scholes | **[Identification and selectivity profiling of small-molecule degraders via multi-omics approaches](https://www.sciencedirect.com/science/article/pii/S245194562100146X)** | Cell Chemical Biology |
 2021 | 03 | Kiely-Collins | [The role of reversible and irreversible covalent chemistry in targeted protein degradation](https://www.sciencedirect.com/science/article/pii/S2451945621001446) | Cell Chemical Biology |
 2021 | 03 | Zhang | [DCAF11 Supports Targeted Protein Degradation by Electrophilic Proteolysis-Targeting Chimeras](https://pubs.acs.org/doi/10.1021/jacs.1c00990) | JACS |
 2021 | 03 | Castaldi | [Advances in Protein Degradation](https://journals.sagepub.com/doi/10.1177/24725552211001823) | SLAS Discovery |
