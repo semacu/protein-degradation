@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 05 | Nishiguchi | [Identification of Potent, Selective, and Orally Bioavailable Small-Molecule GSPT1/2 Degraders from a Focused Library of Cereblon Modulators](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.0c01313) | Journal of Medicinal Chemistry |
 2021 | 05 | Cecchini | [From Conception to Development: Investigating PROTACs Features for Improved Cell Permeability and Successful Protein Degradation](https://www.frontiersin.org/articles/10.3389/fchem.2021.672267/full) | Frontiers in Chemistry |
 2021 | 04 | Jetvic | **[An E3 ligase guide to the galaxy of small-molecule-induced protein degradation](https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(21)00157-4)** | Cell Chemical Biology |
 2021 | 04 | Henning | [Discovery of a Covalent FEM1B Recruiter for Targeted Protein Degradation Applications](https://www.biorxiv.org/content/10.1101/2021.04.15.439993v1) | bioRxiv |
