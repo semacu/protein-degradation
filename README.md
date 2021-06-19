@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 05 | Liu | [TF-PROTACs Enable Targeted Degradation of Transcription Factors](https://pubs.acs.org/doi/10.1021/jacs.1c03852) | Journal of the American Chemical Society |
 2021 | 05 | Kannt | [Expanding the arsenal of E3 ubiquitin ligases for proximity-induced protein degradation](https://www.sciencedirect.com/science/article/pii/S2451945621001628) | Cell Chemical Biology |
 2021 | 05 | Nishiguchi | [Identification of Potent, Selective, and Orally Bioavailable Small-Molecule GSPT1/2 Degraders from a Focused Library of Cereblon Modulators](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.0c01313) | Journal of Medicinal Chemistry |
 2021 | 05 | Cecchini | [From Conception to Development: Investigating PROTACs Features for Improved Cell Permeability and Successful Protein Degradation](https://www.frontiersin.org/articles/10.3389/fchem.2021.672267/full) | Frontiers in Chemistry |
