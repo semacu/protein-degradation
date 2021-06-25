@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 06 | Reynders | [Optical control of targeted protein degradation](https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(21)00255-5) | Cell Chemical Biology |
 2021 | 06 | Dale | [Advancing targeted protein degradation for cancer therapy](https://www.nature.com/articles/s41568-021-00365-x) | Nature Reviews Cancer |
 2021 | 06 | Liu | [TF-PROTACs Enable Targeted Degradation of Transcription Factors](https://pubs.acs.org/doi/10.1021/jacs.1c03852) | Journal of the American Chemical Society |
 2021 | 05 | Kannt | [Expanding the arsenal of E3 ubiquitin ligases for proximity-induced protein degradation](https://www.sciencedirect.com/science/article/pii/S2451945621001628) | Cell Chemical Biology |
