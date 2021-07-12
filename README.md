@@ -1,6 +1,8 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 07 | Douglas | [Ternary Kinetic Models for Rational Design of Molecular Glues](https://chemrxiv.org/engage/chemrxiv/article-details/60cb7182c622953f5e199d10) | chemRxiv |
+
 2021 | 06 | Reynders | [Optical control of targeted protein degradation](https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(21)00255-5) | Cell Chemical Biology |
 2021 | 06 | Dale | [Advancing targeted protein degradation for cancer therapy](https://www.nature.com/articles/s41568-021-00365-x) | Nature Reviews Cancer |
 2021 | 06 | Liu | [TF-PROTACs Enable Targeted Degradation of Transcription Factors](https://pubs.acs.org/doi/10.1021/jacs.1c03852) | Journal of the American Chemical Society |
