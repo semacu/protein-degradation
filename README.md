@@ -1,7 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
-2021 | 07 | Rodriguez-Rivera | [2021 | 07 | Douglas | [Ternary Kinetic Models for Rational Design of Molecular Glues](https://pubs.acs.org/doi/10.1021/acscentsci.1c00389) | ACS Central Science | 
+2021 | 07 | Rodriguez-Rivera | [Unifying Catalysis Framework to Dissect Proteasomal Degradation Paradigms](https://pubs.acs.org/doi/10.1021/acscentsci.1c00389) | ACS Central Science | 
 ](https://chemrxiv.org/engage/chemrxiv/article-details/60cb7182c622953f5e199d10) | chemRxiv | *
 2021 | 07 | Douglas | [Ternary Kinetic Models for Rational Design of Molecular Glues](https://chemrxiv.org/engage/chemrxiv/article-details/60cb7182c622953f5e199d10) | chemRxiv | *
 2021 | 06 | Reynders | [Optical control of targeted protein degradation](https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(21)00255-5) | Cell Chemical Biology |
