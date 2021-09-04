@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 09 | Belcher | [Ligandability of E3 Ligases for Targeted Protein Degradation Applications](https://pubs.acs.org/doi/10.1021/acs.biochem.1c00464) | Biochemistry | 
 2021 | 08 | Hughes | [The rise and rise of protein degradation: Opportunities and challenges ahead](https://www.sciencedirect.com/science/article/abs/pii/S1359644621003640?via%3Dihub) | Drug Discovery Today | 
 2021 | 08 | Shao | [Destruction of DNA-Binding Proteins by Programmable Oligonucleotide PROTAC (O'PROTAC): Effective Targeting of LEF1 and ERG](https://onlinelibrary.wiley.com/doi/10.1002/advs.202102555) | Advanced Science | 
 2021 | 07 | Schneider | **[The PROTACtable genome](https://www.nature.com/articles/s41573-021-00245-x)** | Nature Reviews Drug Discovery | *
