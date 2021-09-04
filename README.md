@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 08 | Hughes | [The rise and rise of protein degradation: Opportunities and challenges ahead](https://www.sciencedirect.com/science/article/abs/pii/S1359644621003640?via%3Dihub) | Drug Discovery Today | 
 2021 | 08 | Shao | [Destruction of DNA-Binding Proteins by Programmable Oligonucleotide PROTAC (O'PROTAC): Effective Targeting of LEF1 and ERG](https://onlinelibrary.wiley.com/doi/10.1002/advs.202102555) | Advanced Science | 
 2021 | 07 | Schneider | **[The PROTACtable genome](https://www.nature.com/articles/s41573-021-00245-x)** | Nature Reviews Drug Discovery | *
 2021 | 07 | Rodriguez-Rivera | [Unifying Catalysis Framework to Dissect Proteasomal Degradation Paradigms](https://pubs.acs.org/doi/10.1021/acscentsci.1c00389) | ACS Central Science | 
