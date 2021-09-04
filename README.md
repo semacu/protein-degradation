@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 08 | Shao | [Destruction of DNA-Binding Proteins by Programmable Oligonucleotide PROTAC (O'PROTAC): Effective Targeting of LEF1 and ERG](https://onlinelibrary.wiley.com/doi/10.1002/advs.202102555) | Advanced Science | 
 2021 | 07 | Schneider | **[The PROTACtable genome](https://www.nature.com/articles/s41573-021-00245-x)** | Nature Reviews Drug Discovery | *
 2021 | 07 | Rodriguez-Rivera | [Unifying Catalysis Framework to Dissect Proteasomal Degradation Paradigms](https://pubs.acs.org/doi/10.1021/acscentsci.1c00389) | ACS Central Science | 
 2021 | 07 | Douglas | [Ternary Kinetic Models for Rational Design of Molecular Glues](https://chemrxiv.org/engage/chemrxiv/article-details/60cb7182c622953f5e199d10) | chemRxiv | *
