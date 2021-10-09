@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 10 | Zhang | [Covalently Engineered Nanobody Chimeras for Targeted Membrane Protein Degradation](https://pubs.acs.org/doi/10.1021/jacs.1c08521) | JACS | *
 2021 | 09 | Zhang | [Machine learning modeling of protein-intrinsic features predicts tractability of targeted protein degradation](https://www.biorxiv.org/content/10.1101/2021.09.27.462040v1) | bioRxiv | *
 2021 | 09 | Belcher | [Ligandability of E3 Ligases for Targeted Protein Degradation Applications](https://pubs.acs.org/doi/10.1021/acs.biochem.1c00464) | Biochemistry | 
 2021 | 08 | Hughes | [The rise and rise of protein degradation: Opportunities and challenges ahead](https://www.sciencedirect.com/science/article/abs/pii/S1359644621003640?via%3Dihub) | Drug Discovery Today | 
