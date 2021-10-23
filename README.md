@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 10 | Imaide | [Trivalent PROTACs enhance protein degradation via combined avidity and cooperativity](https://www.nature.com/articles/s41589-021-00878-4) | Nature Chemical Biology | 
 2021 | 10 | Zhang | [Covalently Engineered Nanobody Chimeras for Targeted Membrane Protein Degradation](https://pubs.acs.org/doi/10.1021/jacs.1c08521) | JACS | *
 2021 | 09 | Zhang | [Machine learning modeling of protein-intrinsic features predicts tractability of targeted protein degradation](https://www.biorxiv.org/content/10.1101/2021.09.27.462040v1) | bioRxiv | *
 2021 | 09 | Belcher | [Ligandability of E3 Ligases for Targeted Protein Degradation Applications](https://pubs.acs.org/doi/10.1021/acs.biochem.1c00464) | Biochemistry | 
