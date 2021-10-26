@@ -1,6 +1,7 @@
 
 Year | Month | First author | Title / Link | Journal | Computational?
 :---:|:-----:|:------------:|--------------|---------|:-------------:
+2021 | 10 | Wang | [UbiBrowser 2.0: a comprehensive resource for proteome-wide known and predicted ubiquitin ligase/deubiquitinase–substrate interactions in eukaryotic species](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab962/6406468) | Nucleic Acids Research | 
 2021 | 10 | Imaide | [Trivalent PROTACs enhance protein degradation via combined avidity and cooperativity](https://www.nature.com/articles/s41589-021-00878-4) | Nature Chemical Biology | 
 2021 | 10 | Zhang | [Covalently Engineered Nanobody Chimeras for Targeted Membrane Protein Degradation](https://pubs.acs.org/doi/10.1021/jacs.1c08521) | JACS | *
 2021 | 09 | Zhang | [Machine learning modeling of protein-intrinsic features predicts tractability of targeted protein degradation](https://www.biorxiv.org/content/10.1101/2021.09.27.462040v1) | bioRxiv | *
